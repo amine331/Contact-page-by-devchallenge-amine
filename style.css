@@ -124,6 +124,13 @@ button {
     font-size: 1.25rem;
     color: #4036A9;
     font-weight: 800;
+    cursor: pointer;
+}
+
+button:hover {
+    transition: 0.3s;
+    color: #FFFFFF;
+    background: #4036A9;
 }
 
 @media (width < 635px) {
