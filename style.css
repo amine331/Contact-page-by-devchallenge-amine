@@ -8,7 +8,7 @@
 
 body {
     min-height: 100vh;
-    background: url(/resources/background.svg);
+    background: url(./resources/background.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
